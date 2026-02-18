@@ -15,7 +15,7 @@
 
 ## 🚀 Tech
 
-<img src="https://skillicons.dev/icons?i=js,react,firebase,postgres,prisma,docker,git,github,html,css,go" />
+<img src="https://skillicons.dev/icons?i=js,cpp,ts,react,firebase,postgres,prisma,docker,git,github,redis,mongodb,googlecloud,aws,tailwindcss,figma" />
 
 ---
 
