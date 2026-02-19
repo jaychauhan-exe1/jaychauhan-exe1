@@ -23,11 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jaychauhan-exe1&show_icons=true&title_color=ff8c00&icon_color=ff8c00&text_color=000000&bg_color=ffffff)
-
 ![Streak](https://streak-stats.demolab.com?user=jaychauhan-exe1&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&background=ffffff&sideNums=000000&currStreakNum=000000&dates=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaychauhan-exe1&layout=compact&title_color=ff8c00&text_color=000000&bg_color=ffffff)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jaychauhan-exe1?cardType=octocat&theme=github&fontFamily=DM%20Sans&showIcons=false&preferLogin=false&Title=FA7D14)](https://git.io/awesome-stats-card)
 
 ---
 
