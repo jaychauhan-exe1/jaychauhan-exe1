@@ -3,7 +3,7 @@
 
 
 
-🚀 Graphics Engineer focused on building scalable apps, real-time systems, and AI-powered tools.  
+🚀 Full Stack Product Engineer focused on building scalable apps, real-time systems, and AI-powered tools.  
 💡 I enjoy understanding how things work under the hood and designing clean, efficient solutions.
 
 
