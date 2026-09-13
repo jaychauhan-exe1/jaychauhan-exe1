@@ -25,8 +25,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=jaychauhan-exe1&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&background=ffffff&sideNums=000000&currStreakNum=000000&dates=000000)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jaychauhan-exe1?cardType=octocat&theme=github&fontFamily=DM%20Sans&showIcons=false&preferLogin=false&Title=FA7D14)](https://git.io/awesome-stats-card)
-
 ---
 
 ⭐ **Always building. Always learning. Always improving.**
