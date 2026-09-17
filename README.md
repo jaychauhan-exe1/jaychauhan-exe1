@@ -21,9 +21,6 @@
 
 
 
-## 📊 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=jaychauhan-exe1&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&background=ffffff&sideNums=000000&currStreakNum=000000&dates=000000)
 
 ---
 
