@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=js,cpp,ts,react,firebase,postgres,prisma,docker,git,github,redis,mongodb,googlecloud,aws,tailwindcss,figma" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaychauhan-exe1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaychauhan-exe1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
