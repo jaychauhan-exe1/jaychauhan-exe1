@@ -1,7 +1,7 @@
 # Hi, I'm Jay Singh Chauhan
 ![Visitors](https://komarev.com/ghpvc/?username=jaychauhan-exe1&label=Profile%20Views&color=ff8c00&style=flat)
 
-
+Portfolio: [Jay Singh Chauhan](https://jaysinghchauhan.com)
 
 Full Stack Javascript Developer focused on building scalable apps, real-time systems, and AI-powered tools.  
 I enjoy understanding how things work under the hood and designing clean, efficient solutions.
